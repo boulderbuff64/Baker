@@ -12,8 +12,11 @@ A knowledge-management pattern attributed to [[Andrej Karpathy]]: instead of run
 
 ## Related
 
-- *(none yet — add as more sources land)*
+- [[Farmer Pattern]] — automated ingestion that writes into the wiki's Sources/ layer.
+- [[Context Rot]] — failure mode the wiki is meant to prevent.
+- [[Vibe Coding]] — broader infra stack the wiki sits inside.
 
 ## Sources
 
 - [[2026-04-12-karpathy-llm-wiki-setup]] — Teacher's Tech end-to-end Obsidian + Claude Code walkthrough; introduces the three-layer model, schema file, and linting step.
+- [[2026-05-08-ai-hackathon-show-and-tell]] — applied demo of the pattern as part of a hackathon stack (skills + memory + farmer + dashboards).
