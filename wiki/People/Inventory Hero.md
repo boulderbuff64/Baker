@@ -1,16 +1,15 @@
 # Inventory Hero
 
-YouTube channel publishing AI hackathon recordings and agent-orchestration demos. New channel (32 subs as of 2026-05-09). URL: https://www.youtube.com/@InventoryHeroAI
+YouTube channel publishing recordings of [[Andrew Erickson]]'s recurring AI Hackathon meetings. Small audience (32 subs as of 2026-05-09), high signal — primary-material rather than commentary.
 
-Likely associated with the maintainer of this vault — see [[2026-05-08-ai-hackathon-show-and-tell]] which references the [Baker](https://github.com/boulderbuff64/Baker) repo this vault lives in.
+URL: https://www.youtube.com/@InventoryHeroAI
 
 ## Sources
 
-- [[2026-05-08-ai-hackathon-show-and-tell]]
+- [[2026-05-08-ai-hackathon-show-and-tell]] — sole upload of interest at time of ingest. Recorded weekly hackathon, runs ~80 min.
 
 ## Topics
 
-- [[LLM Wiki Pattern]]
-- [[Vibe Coding]]
-- [[Farmer Pattern]]
-- [[Context Rot]]
+- [[Farmer Pattern]] — featured live build.
+- [[LLM Wiki Pattern]] — featured live build.
+- [[Command Centre]] — featured walkthrough by guest [[Robb Green]].
